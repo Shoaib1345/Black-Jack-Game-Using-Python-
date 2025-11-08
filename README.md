@@ -31,7 +31,7 @@ This GUI version is based on the original console-based `blackjet()` script and 
 **Main Interface:**
 ```
 
-## 🎴 Professional Blackjack
+## 🎴 Professional Blackjack (working)
 
 Enter your starting cards: 7 4
 [ Deal ] [ Hit ] [ Stand ] [ Play Again ]
